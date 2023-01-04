@@ -2,4 +2,5 @@
 
 ## Team Members
 
-- [Dillon Fagan](https://github.com/dillonfagan) - Architect
+### Architects 
+- [Dillon Fagan](https://github.com/dillonfagan)

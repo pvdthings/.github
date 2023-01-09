@@ -3,20 +3,20 @@
 ## Team Members
 
 ### Architects 
-- [Dillon Fagan](https://github.com/dillonfagan)
-- Architect 2 Wanted
+- Architect 1: [Dillon Fagan](https://github.com/dillonfagan)
+- Architect 2: Wanted
 
 ### Developers
-- [Dillon Fagan](https://github.com/dillonfagan)
-- Developer 1 Wanted
-- Developer 2 Wanted
+- Developer 1: [Dillon Fagan](https://github.com/dillonfagan)
+- Developer 2: Wanted
+- Developer 3: Wanted
+- ...
 
-### UX Designers
-- [Dillon Fagan](https://github.com/dillonfagan)
-- Designer 1 Wanted
-- Designer 2 Wanted
+### UX Designer
+- Temporary: [Dillon Fagan](https://github.com/dillonfagan)
+- Designer: Wanted
 
 ### IT/Database Admins
-- [Dillon Fagan](https://github.com/dillonfagan)
-- Admin 1 Wanted
-- Admin 2 Wanted
+- Temporary: [Dillon Fagan](https://github.com/dillonfagan)
+- Admin 1: Wanted
+- Admin 2: Wanted

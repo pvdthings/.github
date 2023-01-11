@@ -18,5 +18,5 @@
 
 ### IT/Database Admins
 - Temporary: [Dillon Fagan](https://github.com/dillonfagan)
-- Admin 1: Wanted
+- Admin 1: [Chris Milkaitis](https://github.com/cmilkaitis)
 - Admin 2: Wanted

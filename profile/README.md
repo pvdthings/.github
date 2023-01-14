@@ -13,7 +13,7 @@
 - ...
 
 ### UX Designer
-- Designer: [Jeanne McGill][https://github.com/jcm427)
+- Designer: [Jeanne McGill](https://github.com/jcm427)
 
 ### IT/Database Admins
 - Temporary: [Dillon Fagan](https://github.com/dillonfagan)

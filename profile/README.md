@@ -13,8 +13,7 @@
 - ...
 
 ### UX Designer
-- Temporary: [Dillon Fagan](https://github.com/dillonfagan)
-- Designer: Wanted
+- Designer: [Jeanne McGill][https://github.com/jcm427)
 
 ### IT/Database Admins
 - Temporary: [Dillon Fagan](https://github.com/dillonfagan)

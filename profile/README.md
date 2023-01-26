@@ -3,19 +3,17 @@
 ## Team Members
 
 ### Architects 
-- Architect 1: [Dillon Fagan](https://github.com/dillonfagan)
-- Architect 2: Wanted
+- [Dillon Fagan](https://github.com/dillonfagan)
 
 ### Developers
-- Developer 1: [Dillon Fagan](https://github.com/dillonfagan)
-- Developer 2: Wanted
-- Developer 3: Wanted
-- ...
+- [Dillon Fagan](https://github.com/dillonfagan)
+- [Chris Milkaitis](https://github.com/cmilkaitis)
+- [Jeanne McGill](https://github.com/jcm427)
+- [James Clinton](https://github.com/jrclinton)
 
-### UX Designer
-- Designer: [Jeanne McGill](https://github.com/jcm427)
+### UX Designers
+- [Jeanne McGill](https://github.com/jcm427)
 
 ### IT/Database Admins
-- Temporary: [Dillon Fagan](https://github.com/dillonfagan)
-- Admin 1: [Chris Milkaitis](https://github.com/cmilkaitis)
-- Admin 2: Wanted
+- [Dillon Fagan](https://github.com/dillonfagan)
+- [Chris Milkaitis](https://github.com/cmilkaitis)
